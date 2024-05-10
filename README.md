@@ -2,7 +2,7 @@
 
 This project is simple python script which fetches ISS current location from "http://api.open-notify.org/iss-now.json" and displays it , every 5 seconds.
 
-## Installation
+### Installation
 
 1. Clone the repository:
 
@@ -27,7 +27,7 @@ This project is simple python script which fetches ISS current location from "ht
    ```bash
    python3 main.py
    ```
-###Expected Output:
+### Expected Output:
   ```bash
   Lat: -27.1487 and Long: -77.9851
   Lat: -27.4036 and Long: -77.7284
